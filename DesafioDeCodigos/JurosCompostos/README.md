@@ -20,7 +20,7 @@ A função deve retornar o valor final do investimento após o período determin
 
 O cálculo do valor final do investimento com juros compostos é baseado na seguinte fórmula:
 
-\[A = P \left(1 + \frac{r}{n}\right)^{nt}\]
+![Formula](image.png)
 
 onde:
 
