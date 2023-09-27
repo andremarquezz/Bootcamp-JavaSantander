@@ -1,4 +1,4 @@
-# DIO - Trilha Java Básico
+# DIO - Trilha Java Bootcamp Santander
 www.dio.me
 
 #### Autores
