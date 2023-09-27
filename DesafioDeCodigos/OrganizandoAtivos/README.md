@@ -34,5 +34,3 @@ Ativos intangíveis
 Investimentos
 Reservas de liquidez
 ```
-
-Neste exemplo, o programa recebe uma lista de ativos e os organiza em ordem alfabética, exibindo a lista ordenada como saída. Certifique-se de ler a quantidade correta de ativos conforme especificado na primeira entrada.
