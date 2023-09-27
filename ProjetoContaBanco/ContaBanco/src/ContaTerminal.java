@@ -7,6 +7,7 @@ public class ContaTerminal {
 
         System.out.print("Por favor, digite o número da Conta !");
         int numero = scanner.nextInt();
+        // Limpar o buffer do teclado
         scanner.nextLine();
 
         System.out.print("Por favor, digite o número da Agência !");
