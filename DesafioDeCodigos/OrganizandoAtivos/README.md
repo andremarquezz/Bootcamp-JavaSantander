@@ -1,0 +1,38 @@
+# Ordenando Ativos em Ordem Alfabética
+
+## Descrição
+
+Após uma análise cuidadosa realizada pela equipe de desenvolvimento de uma empresa bancária, foi identificada a necessidade de uma nova funcionalidade para otimizar os processos e melhorar a experiência dos usuários. Agora, sua tarefa é implementar uma solução que organize em ordem alfabética uma lista de ativos que será informada pelos usuários. Os ativos são representados por strings que representam seus tipos, como por exemplo: Reservas de liquidez, Ativos intangíveis e outros.
+
+## Entrada
+
+A primeira entrada consiste em um número inteiro que representa a quantidade de ativos que o usuário possui. Em seguida, o usuário deverá informar, em linhas separadas, os tipos (strings) dos respectivos ativos.
+
+## Saída
+
+Seu programa deve exibir a lista de ativos organizada em ordem alfabética. Cada ativo deve ser apresentado em uma linha separada.
+
+---
+
+**Exemplo de Entrada:**
+
+```
+5
+Ativos intangíveis
+Reservas de liquidez
+Ativos físicos
+Investimentos
+Ações
+```
+
+**Exemplo de Saída:**
+
+```
+Ações
+Ativos físicos
+Ativos intangíveis
+Investimentos
+Reservas de liquidez
+```
+
+Neste exemplo, o programa recebe uma lista de ativos e os organiza em ordem alfabética, exibindo a lista ordenada como saída. Certifique-se de ler a quantidade correta de ativos conforme especificado na primeira entrada.
