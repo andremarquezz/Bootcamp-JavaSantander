@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DesafioDeCodigos/CondicionalmenteRico/CondicionalmenteRico.iml" filepath="$PROJECT_DIR$/DesafioDeCodigos/CondicionalmenteRico/CondicionalmenteRico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesafioDeCodigos/EquilibrandoSaldo/EquilibrandoSaldo.iml" filepath="$PROJECT_DIR$/DesafioDeCodigos/EquilibrandoSaldo/EquilibrandoSaldo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesafioDeCodigos/GrandeDeposito/GrandeDeposito.iml" filepath="$PROJECT_DIR$/DesafioDeCodigos/GrandeDeposito/GrandeDeposito.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-Bootcamp-Santander.iml" filepath="$PROJECT_DIR$/.idea/Java-Bootcamp-Santander.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesafioDeCodigos/JurosCompostos/JurosCompostos.iml" filepath="$PROJECT_DIR$/DesafioDeCodigos/JurosCompostos/JurosCompostos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesafioDeCodigos/OrganizandoAtivos/OrganizandoAtivos.iml" filepath="$PROJECT_DIR$/DesafioDeCodigos/OrganizandoAtivos/OrganizandoAtivos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjetoContaBanco/ProjetoContaBanco.iml" filepath="$PROJECT_DIR$/ProjetoContaBanco/ProjetoContaBanco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjetoControleDeFluxo/ProjetoControleDeFluxo.iml" filepath="$PROJECT_DIR$/ProjetoControleDeFluxo/ProjetoControleDeFluxo.iml" />
+    </modules>
+  </component>
+</project>
